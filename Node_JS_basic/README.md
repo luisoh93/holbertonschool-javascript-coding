@@ -1,4 +1,4 @@
-# 0x05. NodeJS Basics
+# NodeJS Basics
 
 ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/1/82692897e15d9f03256f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210906T063849Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4cdc668f1a11253f398d05ebac8978e4ca3ee153568a6361f45df768aa1fcfdc)
 
